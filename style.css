@@ -399,7 +399,7 @@ li.comment{position:relative;border-right:none;overflow:hidden;}
 .showfb .topdate{display:none;}
 .hm_mbg{position:relative !important;}
 .hm_mbg a{padding:17px 17px 17px 45px !important;text-indent:-9999px;}
-.hm_mbg a:before{background:url(images/homebg.png);width:27px;height:27px;position:absolute;top:16px;left:17px;content:'';display:inline-block;}
+.hm_mbg a:before{background:url(https://3.bp.blogspot.com/-HMppHaJHw6g/WE2rdWMCz6I/AAAAAAAACaY/ouZONx8dM5AuZ36yhtDHKcK52zpK7ZdgwCLcB/s1600/homebg.png);width:27px;height:27px;position:absolute;top:16px;left:17px;content:'';display:inline-block;}
 .showfb{z-index:999;width:100%;display:block !important;-moz-animation-name:single-fb-sticky;-moz-animation-iteration-count:1;-moz-animation-timing-function:'ease-in';-moz-animation-duration:0.5s;-moz-animation-direction:normal;-moz-animation-delay:0s;-webkit-animation-name:single-fb-sticky;-webkit-animation-iteration-count:1;-webkit-animation-timing-function:'ease-in';-webkit-animation-duration:0.5s;-webkit-animation-direction:normal;-webkit-animation-delay:0s;animation-name:single-fb-sticky;animation-iteration-count:1;animation-timing-function:'ease-in';animation-duration:0.5s;animation-direction:normal;animation-delay:0s;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;transition:all .3s ease-in-out;}
 .sdwnldpg_dsgn .shoutmeloud_logo_class{text-align:center;}
 .dwnldpg .download_page{margin:15px 0 45px;}
