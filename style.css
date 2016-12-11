@@ -445,7 +445,7 @@ li.comment{position:relative;border-right:none;overflow:hidden;}
 #google-search input[type="text"]{border-radius:0px;box-shadow:0px 0px 0px #eee inset;border:none !important;width:269px;padding:10px !important;}
 .fa_srch:before{content:"\f002";font-size:24px;color:#000;}
 .search_icon{display:none;}
-#google-search input[type="submit"]{border-radius:0px;background-color:#c82127;border:1px solid #c82127;padding:13px 30px;background-image:url(images/hover-search.png);background-repeat:no-repeat;background-position:center center;text-indent:-999px;}
+#google-search input[type="submit"]{border-radius:0px;background-color:#c82127;border:1px solid #c82127;padding:13px 30px;background-image:url(https://3.bp.blogspot.com/-Bvs4VeeEiAo/WE2tBWSR46I/AAAAAAAACag/w7zjVvw6LMkBeLAtkXihQHligCrRUwPzwCLcB/s1600/hover-search.png);background-repeat:no-repeat;background-position:center center;text-indent:-999px;}
 .google_inner{position:relative;background:#fff;}
 .google_inner .sicon{color:#000;margin:0;padding:10px;}
 .sicon{position:absolute;top:0;color:#000;padding:7% 4%;}
